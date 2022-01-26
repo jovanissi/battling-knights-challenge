@@ -4,22 +4,22 @@ This projects contains the codes that allow the user to play the Battling Knight
 
 ## GET STARTED
 
-**Python**
+### Python
 > This project was generated with [Python](https://www.python.org/downloads/) version 3.8.
 
 It is advisable to run this project through a python 3 virtual environment
 
-**Create virtualenv**
+### Create virtualenv
 ```bash
 virtualenv -p python3 venv
 ```
 
-**Activate the virtualenv**
+### Activate the virtualenv
 ```bash
 source venv/bin/activate
 ```
 
-**Instructions**
+### Instructions
 
 A  *moves.txt* must be inserted into the project as an instruction file containing how the
 knights will move on the board. <br>
@@ -43,11 +43,11 @@ for UP, DOWN, RIGHT, and LEFT directions respectively
 
 **Note**: In this project a sample *moves.txt* file is generated for you. You can edit it anyhow you want.
 
-**Output**
+### Output
 
 The output for the final board will be located in the *final_state.json* that is generated when the project is run.
 
-**Running**
+### Running
 
 To run the project, you go to the project's directory and run the following command
 

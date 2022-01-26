@@ -4,13 +4,4 @@ R:S
 B:E
 G:N
 Y:N
-R:E
-R:E
-B:E
-B:N
-B:N
-R:S
-R:S
-R:S
-B:W
 GAME-END
